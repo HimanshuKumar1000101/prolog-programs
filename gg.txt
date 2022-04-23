@@ -1,0 +1,8 @@
+N=number of disc
+X-Source tower/first tower
+Y-destination tower/third tower/ target tower
+Z- second tower/ intermediate tower/ auxiliary tower
+
+to execute:
+//2 to 3
+move(3,source,destination,intermediate).

@@ -1,0 +1,3 @@
+is --> "="
+take value = read(X).
+c is x*x,write(c).
